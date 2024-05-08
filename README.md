@@ -1,5 +1,6 @@
 # My Books
-The books that I read, will to complete, will to read.
+The books that I read, will to complete, will to read.  
+I'm diagnosed with ADHD and Dyslexia, making reading and keeping a conistent reading. also completing a book to it's end it's an impossible task too.
 
 ## Programming
 | Name | Percentage |
@@ -10,7 +11,6 @@ The books that I read, will to complete, will to read.
 | The C Programming Language                                                                                       | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=80&leftFill=%2399FF66)  |
 | C# in Depth 4th Edition                                                                                          | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%23FF3300)  |
 | C How to Program. With an Introduciton to C++                                                                    | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%2300FF66) |
-| C++ Templates: The Complete Guide                                                                                | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%23FF3300)   |
 
 ## Reverse Engineering & Security
 | Name | Percentage |
@@ -32,8 +32,9 @@ The books that I read, will to complete, will to read.
 |------|------------|
 | Structure and Interpretation of Computer Programs                                                                | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%23FF3300)   |
 | Compilers Principles, Techniques, Tools                                                                          | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=20&leftFill=%23FF3300)  |
-| Crafting Interpreters                                                                                            | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=10&leftFill=%23FF3300)  |
-| Computer Systems: A Programmer's Perspective                                                                     | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=0&leftFill=%23FF3300)   |
+| Crafting Interpreters                                                                                            | ![](http://www.yarntomato.com/percentbarmaker/button.php?barPosition=100&leftFill=%23FF3300)  |
+
+## Computer Systems
 
 ## Misc
 | Name | Percentage |
